@@ -27,16 +27,4 @@ Files Submitted:
   q19_text_analysis.py
   q20_number_system_functions.py
 
-Special Instructions:
-  - All files are individual .py scripts, run each separately with: python filename.py
-  - Q10 (ATM) uses PIN "1234" for demo purposes
-  - Q16 (Guessing Game) uses random module which is part of Python standard library
-  - No third-party libraries needed, only built-in Python modules used (math, datetime, random)
 
-Challenges Faced:
-  - Q4 (Age Calculator): handling the leap year birthday edge case (Feb 29) for next birthday
-  - Q15 (Prime Checker): understanding the square root optimization for faster prime checking
-  - Q19 (Text Analysis): cleaning punctuation from words before frequency counting
-  - Q20 (Number System): implementing manual conversion functions instead of just using built-ins to understand how the math works
-
-Python Version: Python 3.x
