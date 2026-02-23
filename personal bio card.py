@@ -1,0 +1,17 @@
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+city = input("Enter your city: ")
+hobby = input("Enter your hobby: ")
+email = input("Enter your email: ")
+
+# now just print everything in a nice box format
+print("\n")
+print("=" * 40)
+print("         PERSONAL BIO CARD")
+print("=" * 40)
+print(f"  Name   : {name}")
+print(f"  Age    : {age}")
+print(f"  City   : {city}")
+print(f"  Hobby  : {hobby}")
+print(f"  Email  : {email}")
+print("=" * 40)
